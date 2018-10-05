@@ -1,2 +1,2 @@
-# sem_01
-Primera clase de seminario de gráfica computacional
+# Seminario de Gráfica Computacional I
+#### Primera clase
